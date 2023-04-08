@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-import java.io.inputprinter;
+import java.io.outputprinter;
 
 public class JavaFileDownloadExample{
 	public static void main(String[] args) throws IOException{
